@@ -15,8 +15,6 @@ A modular IOP platform
 
 ## Built With
 
-* [Rust](https://www.rust-lang.org/)
-
 ## Contributing
 
 ## Versioning
