@@ -1,6 +1,6 @@
 # Project Title
 
-A modular IOP platform implemented in Rust.
+A modular IOP platform
 
 ## Getting Started
 
